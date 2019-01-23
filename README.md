@@ -34,21 +34,21 @@ This was another multiple-select question where I missed correct answers and cho
 ### Question 4
 This was another multiple-select question and for this one, I did not miss any, but I just selected an extra one, but it was a wrong one. I wrongly chose `?`.
 
-###Question 5
+### Question 5
 This question asked to satisfy the above statements with two missing operators. I got this question wrong simply because I chose the answer that had `&&` and `&&`. I should've chosen the answer that had `&&` and `||`.
 
-###Question 6 
+### Question 6 
 This question asked what was the simplest way to achieve the goal stated. I chose the answer with the switch and case statements when I should've chosen the answer with the if statement and then the else statements that was the shortest since the longer one wasn't the simplest way.
 
-###Question 8
+### Question 8
 For this question, it was another multiple-select question, and I selected 2 answers that were correct, but there was another answer that I missed. The one i missed was:
 ```
 let status = (studentGrade < 88) ? "ND" : "HR";
 ```
-###Question 11
+### Question 11
 This was a multiple choice question where I selected the wrong answer. I chose the answer without the `break;` when the correct answer included the `break;`.
 
-###Question 12
+### Question 12
 I got this question wrong because I mixed up the four components of a `for` loop. The answer I chose had the steps in order of: setup, expression, loop body, update, and repeat. The correct answer had the steps in order of: setup, expression, loop body, update, and return to step 2.
 
 ## Quiz 6 Corrections 
@@ -95,7 +95,7 @@ function example() {        // line 1
 ```
 The answer I chose was that `2` will be printed to the console, and the correct answer was `1` and `2` will be printed to the console.
 
-###Question 12
+### Question 12
 I got this question wrong because I didn't know what would be the result of the code snippet provided:
 ```
 function example(a, b, c) {
@@ -112,7 +112,7 @@ function example(a, b, c) {
 ```
 The answer I chose was that `4` will be printed to the console, and the correct answer was `4` or `undefined` will be printed to the console.
 
-###Question 15
+### Question 15
 I got this question wrong because I didn't know what would be the result of the code snippet provided:
 ```
 function example() {        // line 1
